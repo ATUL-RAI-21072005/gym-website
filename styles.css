@@ -121,7 +121,7 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('hero-bg.png') center/cover no-repeat;
+    background: url('assets/hero-bg.png') center/cover no-repeat;
 }
 
 .hero .overlay {
